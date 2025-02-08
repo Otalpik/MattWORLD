@@ -1032,7 +1032,7 @@ body.vaporwave #chat_send:active  {
     overflow: hidden;
 }
 
-#page_warning_login,#page_reboot,#page_error, #page_ban, #page_banmenu, #page_spawnbonzi, #page_spawnbonzispam, #page_kickmenu, #page_bwrassistant, #page_warning, #page_mute, #page_skiddie, #page_unsupp  {
+#page_warning_login, #page_reboot, #page_error, #page_ban, #page_banmenu, #page_spawnbonzi, #page_spawnbonzispam, #page_kickmenu, #page_bwrassistant, #page_warning, #page_mute, #page_skiddie, #page_unsupp  {
     background-color: rgba(0, 0, 0, 0.5);
 }
 body.banned #bonzi_canvas, body.kicked #bonzi_canvas  {
